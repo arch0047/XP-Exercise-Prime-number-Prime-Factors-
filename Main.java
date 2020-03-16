@@ -26,7 +26,7 @@ public class Main {
         //Second number
         int num2 = 141;
         int result;
-        String output, outputFinal = "Factor: ";
+        String output, outputFinal = "Prime Factor is : ";
         isPrime = false;
         String[] factor = new String[10];
 
